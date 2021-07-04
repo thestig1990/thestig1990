@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on study Python and Jango
-- 📫 How to reach me: Email - yakymov1geka@gmail.com
+- 📫 How to reach me: Email - yakymov1geka@gmail.com; 
                       Linkedin - 
 
 <!---
