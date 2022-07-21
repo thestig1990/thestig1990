@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thestig1990
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on study Python and Jango
+- 🌱 I’m currently learning Python, Linux, Networking
+- 💞️ I’m looking to collaborate on study Python and Linux
 - 📫 How to reach me: Email - yakymov1geka@gmail.com; 
                       Linkedin - ...
 
