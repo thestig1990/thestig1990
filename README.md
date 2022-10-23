@@ -5,7 +5,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, Linux, Networking
 - 💞️ I’m looking to collaborate on study Python, Linux and DevOps Tech Stack
--  ⚒ My first small but best Python program [IPv4_Calculator](https://github.com/thestig1990/IPv4_Calculator) for a while
+-  ⚒ My first small but best Python program for a while - [IPv4_Calculator](https://github.com/thestig1990/IPv4_Calculator)
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestig1990&layout=compact&langs_count=7&theme=aura"/>
