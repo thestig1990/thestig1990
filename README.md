@@ -3,7 +3,7 @@
 <h2 align="left"> 👨‍💻 About Me:</h2>
 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Linux, Networking
+- 🌱 I’m currently learning Python, Linux, Networking, Cloud Technology
 - 💞️ I’m looking to collaborate on study Python, Linux and DevOps Tech Stack
 -  ⚒ My first small but best Python script for a while - [IPv4_Calculator](https://github.com/thestig1990/IPv4_Calculator)
 
@@ -15,7 +15,7 @@
 
 <h2 align="left"> 📫 How to reach me:</h2>
 
-- 📩 Email -    yakymov1yevhen@gmail.com;
+- 📩 Email -    yakymov1yevhen@gmail.com
 - 🔗 Linkedin - ...
 
 ---
