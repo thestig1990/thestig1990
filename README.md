@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+
 <h1 align="center"> Hi there 👋, I’m Yevhen Yakymov </h1> 
 
 <h2 align="left"> 👨‍💻 About Me:</h2>
