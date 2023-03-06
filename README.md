@@ -18,7 +18,6 @@
 <h2 align="left"> 📫 How to reach me:</h2>
 
 - 📩 Email -    yakymov1yevhen@gmail.com
-- 🔗 Linkedin - ...
-
+- 🔗 Linkedin - [link](https://www.linkedin.com/in/yevhen-yakymov/)
 ---
 #### [Yevhen Yakymov](https://github.com/thestig1990) 
