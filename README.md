@@ -7,13 +7,19 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, Linux, Networking, Cloud Technology
 - 💞️ I’m looking to collaborate on study Python and DevOps Tech Stack
--  ⚒ Some of my Python scripts are as follows - [IPv4_Calculator](https://github.com/thestig1990/IPv4_Calculator), [password-generator](https://github.com/thestig1990/password-generaror)
+-  ⚒ Some of my Python scripts are as follows:
+   - [IPv4_Calculator](https://github.com/thestig1990/IPv4_Calculator)
+   - [password-generator](https://github.com/thestig1990/password-generaror)
+
+<br>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestig1990&layout=compact&langs_count=7&theme=aura"/>
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thestig1990&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
+
+<br>
 
 <h2 align="left"> 📫 How to reach me:</h2>
 
