@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on study Python and DevOps Tech Stack
 -  ⚒ Some of my Python scripts are as follows:
    - [IPv4_Calculator](https://github.com/thestig1990/IPv4_Calculator)
-   - [password-generator](https://github.com/thestig1990/password-generaror)
+   - [password-generator](https://github.com/thestig1990/password-generator)
 
 <br>
 
