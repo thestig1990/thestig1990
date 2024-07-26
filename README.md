@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python, JS, Linux, Networking, Cloud Technology, AI
 -  ✔ Check out my Google IT Automation with Python Professional Course Certificate:
     - [Certificate](https://github.com/thestig1990/google_it_automation_with_python) 
--  ⚒ Some of my Python scripts and projects are as follows:
+-  ⚒ Some of my Python scripts and projects are listed below:
    - [IPv4_Calculator](https://github.com/thestig1990/IPv4_Calculator)
    - [Password-generator](https://github.com/thestig1990/password-generator)
    - [Django E-commerce auction site](https://github.com/thestig1990/commerce)
