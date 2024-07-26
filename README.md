@@ -10,7 +10,7 @@
 -  ⚒ Some of my Python scripts and projects are as follows:
    - [IPv4_Calculator](https://github.com/thestig1990/IPv4_Calculator)
    - [password-generator](https://github.com/thestig1990/password-generator)
-   - [Django E-commerce auction site]([/](https://github.com/thestig1990/commerce)
+   - [Django E-commerce auction site](https://github.com/thestig1990/commerce)
 
 <br>
 
