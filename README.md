@@ -6,10 +6,11 @@
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, JS, Linux, Networking, Cloud Technology, AI
-- 💞️ I’m looking to collaborate on study Python
+-  ✔ Check out my Google IT Automation with Python Professional Course Certificate:
+    - [Certificate](https://github.com/thestig1990/google_it_automation_with_python) 
 -  ⚒ Some of my Python scripts and projects are as follows:
    - [IPv4_Calculator](https://github.com/thestig1990/IPv4_Calculator)
-   - [password-generator](https://github.com/thestig1990/password-generator)
+   - [Password-generator](https://github.com/thestig1990/password-generator)
    - [Django E-commerce auction site](https://github.com/thestig1990/commerce)
 
 <br>
@@ -26,5 +27,5 @@
 
 - 📩 Email -    yakymov1yevhen@gmail.com
 - 🔗 Linkedin - [link](https://www.linkedin.com/in/yevhen-yakymov/)
----
+- 🌐 Website - [link](http://yakymov.website/certification.html)
 #### [Yevhen Yakymov](https://github.com/thestig1990) 
