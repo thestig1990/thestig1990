@@ -5,11 +5,12 @@
 <h2 align="left"> 👨‍💻 About Me:</h2>
 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Linux, Networking, Cloud Technology
-- 💞️ I’m looking to collaborate on study Python and DevOps Tech Stack
--  ⚒ Some of my Python scripts are as follows:
+- 🌱 I’m currently learning Python, Linux, Networking, Cloud Technology, AI
+- 💞️ I’m looking to collaborate on study Python
+-  ⚒ Some of my Python scripts and projects are as follows:
    - [IPv4_Calculator](https://github.com/thestig1990/IPv4_Calculator)
    - [password-generator](https://github.com/thestig1990/password-generator)
+   - [Django website](/)
 
 <br>
 
